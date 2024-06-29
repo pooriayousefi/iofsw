@@ -1,3 +1,3 @@
 # iofsw
 
-A Simple C++ RAII I/O File Wrappers Module.
+A Simple C++20 RAII I/O File Wrappers Module.
